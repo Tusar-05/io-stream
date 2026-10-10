@@ -1,4 +1,4 @@
-//a program to read the content of a file 
+
 import java.io.*;
 public class test1{
     public static void main(String args[]){
